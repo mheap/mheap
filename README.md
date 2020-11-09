@@ -25,7 +25,7 @@
 
 
 <tr>
-<td style="border:0" width="50%">
+<td width="50%">
 <h3>1/3 Engineer, 1/3 Educator, 1/3 Imaginer</h3>
 
 I'm a Senior Developer Relations Manager at Vonage, leading a team of 25 people focused on Developer Experience. Day to day, this means that I act a lot like a Product Manager, but still find enough time to code to get myself in to trouble.
@@ -39,7 +39,23 @@ In a previous life, I:
 
 Today, you'll find me building [GitHub Actions](https://github.com/search?q=topic%3Agithub-action+user%3Amheap&type=source), [CLI tools](https://github.com/search?q=topic%3Acli+user%3Amheap&type=source), [Octokit plugins](https://github.com/search?q=topic%3Aoctokit-plugin+user%3Amheap&type=source) and [streaming on Twitch](https://www.twitch.tv/buildwithmheap)
 
-Some of my favourite projects:
+</td>
+
+<td style="border:0" width="50%">
+<div align="center">
+<a href="https://actionsbook.com?utm_source=github&utm_campaign=readme">
+<img src="https://actionsbook.com/static/d18a1e980e7a395903a0d95d0b072b96/630fb/book.png" align="center" style="width: 100%" />
+</a>
+<br />
+<br />
+<strong>Oh, and I recently self published a book + screencasts<br />on <a target="_blank" href="https://actionsbook.com?utm_source=github&utm_campaign=readme">building your own GitHub Actions</a></strong>
+</div>  
+</td>
+</tr>
+<tr>
+<td width="50%">
+	
+<h4>Favourite projects as a maintainer</h4>
 
 <ul>
   <li><a href="https://github.com/mheap/markdown-to-jira">Create Jira tickets from a markdown notes</a></li>
@@ -52,15 +68,10 @@ Some of my favourite projects:
   <li><a href="https://github.com/mheap/github-action-hold-your-horses">Enforce a minimum amount of time a Pull Request must be open for</a></li>	
 </ul>
 </td>
-<td style="border:0" width="50%">
-<div align="center">
-<a href="https://actionsbook.com?utm_source=github&utm_campaign=readme">
-<img src="https://actionsbook.com/static/d18a1e980e7a395903a0d95d0b072b96/630fb/book.png" align="center" style="width: 100%" />
-</a>
-<br />
-<br />
-<strong>Oh, and I recently self published a book + screencasts<br />on <a target="_blank" href="https://actionsbook.com?utm_source=github&utm_campaign=readme">building your own GitHub Actions</a></strong>
-</div>  
-</td>
-</tr>
-</table>
+<td width="50%" valign="top">
+<h4>Favourite projects as a consumer</h4>
+
+<ul>
+  <li><a href="https://github.com/JasonEtco/actions-toolkit">Actions Toolkit (@jasonetco)</a></li>
+</ul></td>
+</tr></table>
