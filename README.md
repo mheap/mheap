@@ -30,6 +30,8 @@
 
 I'm a Senior Developer Relations Manager at Vonage, leading a team of 25 people focused on Developer Experience. Day to day, this means that I act a lot like a Product Manager, but still find enough time to code to get myself in to trouble.
 
+Outside of work, I'm on the [OpenAPI](https://www.openapis.org/) Business Governance Board and am contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/)
+
 In a previous life, I:
 
 * Spent a decade as a developer, working commercially with (in chronological order): PHP, Node, Python, Go and most recently, Ruby
@@ -55,7 +57,7 @@ Today, you'll find me building [GitHub Actions](https://github.com/search?q=topi
 </table>
 
 	
-<h3>My favourite projects</h3>
+<h3>My most used projects</h3>
 
 <ul>
   <li><a href="https://github.com/mheap/markdown-to-jira">Create Jira tickets from a markdown notes</a></li>
