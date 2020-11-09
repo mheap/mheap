@@ -52,10 +52,10 @@ Today, you'll find me building [GitHub Actions](https://github.com/search?q=topi
 </div>  
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
+
 	
-<h4>Favourite projects as a maintainer</h4>
+<h3>My favourite projects</h3>
 
 <ul>
   <li><a href="https://github.com/mheap/markdown-to-jira">Create Jira tickets from a markdown notes</a></li>
@@ -67,11 +67,3 @@ Today, you'll find me building [GitHub Actions](https://github.com/search?q=topi
   <li><a href="https://github.com/mheap/github-action-auto-compile-node">Automatically convert from `docker` to `node12` for GitHub Actions when tagged</a></li>
   <li><a href="https://github.com/mheap/github-action-hold-your-horses">Enforce a minimum amount of time a Pull Request must be open for</a></li>	
 </ul>
-</td>
-<td width="50%" valign="top">
-<h4>Favourite projects as a consumer</h4>
-
-<ul>
-  <li><a href="https://github.com/JasonEtco/actions-toolkit">Actions Toolkit (@jasonetco)</a></li>
-</ul></td>
-</tr></table>
