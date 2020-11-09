@@ -39,8 +39,18 @@ In a previous life, I:
 
 Today, you'll find me building [GitHub Actions](https://github.com/search?q=topic%3Agithub-action+user%3Amheap&type=source), [CLI tools](https://github.com/search?q=topic%3Acli+user%3Amheap&type=source), [Octokit plugins](https://github.com/search?q=topic%3Aoctokit-plugin+user%3Amheap&type=source) and [streaming on Twitch](https://www.twitch.tv/buildwithmheap)
 
+Some of my favourite projects:
 
-
+<ul>
+  <li><a href="https://github.com/mheap/markdown-to-jira">Create Jira tickets from a markdown notes</a></li>
+  <li><a href="https://github.com/mheap/github-default-branch">Rename `master` to `main` in a single command</a></li>
+  <li><a href="https://github.com/mheap/pin-github-action">Pin your GitHub Actions to a specific SHA</a></li>
+  <li><a href="https://github.com/mheap/pocket-tagger-cli">Tag items saved to Pocket based on their URL or contents</a></li>	
+  <li><a href="https://github.com/mheap/debug-artifact">Download the `event.json` and `env` from a GitHub Action run with a click</a></li>	
+  <li><a href="https://github.com/mheap/github-action-pr-heroku-review-app">Deploy a review app for a Pull Request if the author has write access to the repo</a>   <li><a href="https://github.com/mheap/github-action-heroku-logs">Attach build logs as a comment if a Heroku deploy fails</a>  
+  <li><a href="https://github.com/mheap/github-action-auto-compile-node">Automatically convert from `docker` to `node12` for GitHub Actions when tagged</a></li>
+  <li><a href="https://github.com/mheap/github-action-hold-your-horses">Enforce a minimum amount of time a Pull Request must be open for</a></li>	
+</ul>
 </td>
 <td style="border:0" width="50%">
 <div align="center">
