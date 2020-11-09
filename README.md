@@ -1,6 +1,7 @@
-## Hello, I'm Michael  
+<table>
+<tr><td colspan="2">
+<h2>Hello, I'm Michael </h2> 
   
-
 <a href="https://github.com/mheap" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,12 +20,10 @@
 <a href="https://www.twitch.tv/buildwithmheap" target="_blank">
 	<img src="https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
 </a>  
-<br />
-<br />
+</td></tr>
 
 
 
- <table>
 <tr>
 <td style="border:0" width="50%">
 <h3>1/3 Engineer, 1/3 Educator, 1/3 Imaginer</h3>
