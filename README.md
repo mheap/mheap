@@ -37,7 +37,7 @@ In a previous life, I:
 * Recorded a [video course](https://www.packtpub.com/product/mastering-express-web-application-development-video/9781783554317) for Packt publishing on Mastering Express Applications
 * Wrote a [book on Ansible](https://www.apress.com/gp/book/9781484216606) for Apress (and contributed a module to Ansible itself)
 
-Today, you'll find me building [GitHub Actions](https://github.com/search?q=topic%3Agithub-action+user%3Amheap&type=source), [CLI tools](https://github.com/search?q=topic%3Acli+user%3Amheap&type=source) and [streaming on Twitch](https://www.twitch.tv/buildwithmheap)
+Today, you'll find me building [GitHub Actions](https://github.com/search?q=topic%3Agithub-action+user%3Amheap&type=source), [CLI tools](https://github.com/search?q=topic%3Acli+user%3Amheap&type=source), [Octokit plugins](https://github.com/search?q=topic%3Aoctokit-plugin+user%3Amheap&type=source) and [streaming on Twitch](https://www.twitch.tv/buildwithmheap)
 
 
 
