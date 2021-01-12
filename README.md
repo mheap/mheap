@@ -30,7 +30,7 @@
 
 I'm a Senior Developer Relations Manager at Vonage, leading a team of 25 people focused on Developer Experience. Day to day, this means that I act a lot like a Product Manager, but still find enough time to code to get myself in to trouble.
 
-Outside of work, I'm on the [OpenAPI](https://www.openapis.org/) Business Governance Board and am contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/)
+Outside of work, I'm on the [OpenAPI](https://www.openapis.org/) Business Governance Board and contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/)
 
 In a previous life, I:
 
