@@ -22,18 +22,17 @@
 </a>  
 </td></tr>
 
-
-
 <tr>
 <td width="50%">
 <h3>1/3 Engineer, 1/3 Educator, 1/3 Imaginer</h3>
 
-I'm a Senior Developer Relations Manager at Vonage, leading a team of 25 people focused on Developer Experience. Day to day, this means that I act a lot like a Product Manager, but still find enough time to code to get myself in to trouble.
+I'm the director of Developer Relations at @Kong. This is a new role, so I'm still working out what the day to day looks like. My current projects are [Action Spotlight](https://michaelheap.com/category/action-spotlight), an opinionated look at the best GitHub actions, [Tinbox](https://tinbox.dev/), a team inbox for DevRel teams and finally, trying to to keep a small human alive.
 
-Outside of work, I'm on the [OpenAPI](https://www.openapis.org/) Business Governance Board and contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/)
+Outside of work, I contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/) and an [OpenAPI](https://www.openapis.org/) Business Governance Board alumni.
 
 In a previous life, I:
 
+* Led a team of 25 people focused on Developer Experience at @Vonage
 * Spent a decade as a developer, working commercially with (in chronological order): PHP, Node, Python, Go and most recently, Ruby
 * Ran an infrastructure team that used Terraform and Chef to deploy to Azure
 * Recorded a [video course](https://www.packtpub.com/product/mastering-express-web-application-development-video/9781783554317) for Packt publishing on Mastering Express Applications
