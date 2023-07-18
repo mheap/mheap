@@ -26,7 +26,7 @@
 <td width="50%">
 <h3>1/3 Engineer, 1/3 Educator, 1/3 Imaginer</h3>
 
-I'm the director of Developer Relations at @Kong. This is a new role, so I'm still working out what the day to day looks like. My current projects are [Action Spotlight](https://michaelheap.com/category/action-spotlight), an opinionated look at the best GitHub actions, [Tinbox](https://tinbox.dev/), a team inbox for DevRel teams and finally, trying to to keep a small human alive.
+I'm the director of Developer Relations at @Kong. This is a new role, so I'm still working out what the day to day looks like. My current projects are [Action Spotlight](https://michaelheap.com/topic/github-actions/), an opinionated look at the best GitHub actions, [Tinbox](https://tinbox.dev/), a team inbox for DevRel teams and finally, trying to to keep a small human alive.
 
 Outside of work, I contribute to the GitHub ecosystem as a [GitHub Star](https://stars.github.com/profiles/mheap/) and an [OpenAPI](https://www.openapis.org/) Business Governance Board alumni.
 
