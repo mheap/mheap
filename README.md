@@ -17,7 +17,7 @@
 <td width="50%">
 <h3>1/3 Engineer, 1/3 Educator, 1/3 Imaginer</h3>
 
-By day, I'm the Senior Director of Developer Relations at @Kong. By night, I'm a parent, writer and programmer (though usually not all at the same time).
+By day, I'm the Senior Director of Product at @Kong. By night, I'm a parent, writer and programmer (though usually not all at the same time).
 
 You can find all my writing at [michaelheap.com](https://michaelheap.com/blog), including posts on [#github](https://michaelheap.com/topic/github/) and [#github-actions](https://michaelheap.com/topic/github-actions/).
 
